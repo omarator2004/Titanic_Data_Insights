@@ -20,8 +20,7 @@ In this notebook, I focused on **data cleaning, preprocessing, and feature engin
 - Matplotlib, Seaborn  
 - Scikit-learn  
 
-## 📊 Next Steps
-This project ends at dataset preprocessing (Week 2).  
-In Week 3, I will build and evaluate machine learning models for survival prediction.  
+## 📊 Next Steps 
+I will build and evaluate machine learning models for survival prediction.  
 
 ---
